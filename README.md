@@ -1,7 +1,9 @@
 # Stick-Hero-Game-Project
 
 Engineered a precise Java-based PC adaptation of the popular "Stick Hero" game.
+
 Designed and implemented core game mechanics, integrating custom features that enhanced the UX.
+
 Employed OOP methodologies to instantiate game objects and orchestrate their interactions through encapsulation, inheritance, and polymorphism.
 
 ReadMe file:
